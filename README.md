@@ -5,7 +5,7 @@ A comprehensive React Native application built with Expo CLI that provides a stu
 ## Features
 
 ### 🎯 Core Functionality
-- **React Navigation**: Stack and Bottom Tab navigation
+- **React Navigation**: Stack and Bottom Tab navigation in React Native
 - **Student Management**: Complete student list with detailed profiles
 - **Course Tracking**: Course details with grades and progress
 - **Attendance Monitoring**: Visual progress bars and attendance history
